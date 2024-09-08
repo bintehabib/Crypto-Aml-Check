@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Crypto Aml Check Bot
+[Download Now](https://github.com/bintehabib/Crypto-Aml-Check/releases/tag/1)
+
+
 
 A money laundering check(AML) is a type of identity check used to determine whether a person is 
 involved in money laundering activities. 
